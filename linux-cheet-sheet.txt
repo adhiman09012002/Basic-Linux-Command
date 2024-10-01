@@ -1,0 +1,500 @@
+   45  git status -s
+   46  clear
+   47  touch gitignore
+   48  clear
+   49  touch .gitignore
+   50  git status
+   51  git checkout index.html
+   52  git checkout contact.html
+   53  git checkout monuments.html
+   54  touch mylog.log
+   55  git add -A
+   56  git status
+   57  git add -A
+   58  git status
+   59  git commit -a -m "ignored some files and gitignore"
+   60  git status
+   61  git status
+   62  git add -A
+   63  git status
+   64  git rm --cached log/mylog.log
+   65  git status
+   66  git add -A
+   67  git status
+   68  git status
+   69  git status
+   70  git status
+   71  git status
+   72  git add -A
+   73  git commit -a -m "commit message"
+   74  git log -p -3
+   75  clear
+   76  git status
+   77  git branch feature1
+   78  git branch
+   79  git checkout feature1
+   80  git status
+   81  git status
+   82  git status
+   83  git add -A
+   84  git status
+   85  git commit -m "Fixed extra brtackets"
+   86  git status
+   87  git checkout master 
+   88  git checkout feature1
+   89  git commit feature1
+   90  git commit -a -m "added comment"
+   91  git status
+   92  git checkout master
+   93  git checkout feature1
+   94  git status
+   95  git checkout master
+   96  git log -p -2
+   97  git marge feature1
+   98  git log -p -2
+   99  git beanch
+  100  git checkout -b flaskintegration
+  101  git beanch
+  102  branch
+  103  git branch
+  104  git status
+  105  git add -A
+  106  git commit -m "added flask minimal file"
+  107  git status
+  108  git checkout master
+  109  git status
+  110  git commit -a -m "modified about"
+  111  git status
+  112  git checkout flaskintegration
+  113  clear
+  114  git status
+  115  git master
+  116  git checkout master
+  117  clear
+  118  git remote add origin https://github.com/adhiman09012002/git-One-Video.git
+  119  git remote
+  120  git remote -v
+  121  git checkout master
+  122  git status
+  123  git commit -m " added flask minimal file"
+  124  git add -a
+  125  git add -A
+  126  git commit -m "added flask minimal file"
+  127  git status
+  128  git commit master
+  129  $ ssh-keygen -t ed25519 -C "ajaydhiman09012002@gmail.com
+  130  q
+  131  git checkout flaskintegration
+  132  git push -u origion flaskIntegration
+  133  git confi_name ajay
+  134  git confi_@email.com
+  135  git cinfi
+  136  git confi _name "ajay"
+  137  git cinfig _name "ajay"
+  138  git config _ name "ajay"
+  139  git config --user.name
+  140  git config--user.email
+  141  git config -- user.name
+  142  git clone 
+  143  git brach
+  144  git branch
+  145  git checkout 
+  146  git status
+  147  git config -- user.name
+  148  git config -- user.mail
+  149  git config -- user.email
+  150  git config --global user.name
+  151  clear
+  152  cd Desktop\
+  153  cd Desktop/
+  154  cd Desktop/
+  155  mkdir desktop
+  156  cd desktop
+  157  git init
+  158  git add .
+  159  git status
+  160  touch desktop.txt
+  161  git add .
+  162  git status
+  163  git commit -m"First Commit"
+  164  git remote origin https://github.com/adhiman09012002/newRepoo.git
+  165  git config --global user.name
+  166  git config --global user.emal
+  167  git config --global user.email
+  168  git init
+  169  git add --a
+  170  git commit -m "commit:m1"
+  171  clear
+  172  git add
+  173  git init
+  174  git add
+  175  git add.about.txt
+  176  git commit
+  177  git status
+  178  git commit
+  179  git add about.txt
+  180  git add about.txt.txt
+  181  git add contact.txt.txt
+  182  git add homepage.txt.txt
+  183  git add kidsection.txt.txt
+  184  git add mensection.txt.txt
+  185  git add womensection.txt.txt
+  186  git status
+  187  git commit -m "commit:m1"
+  188  git add --a
+  189  git commit -m "commit:n1"
+  190  git commit -m "commit:m1"
+  191  git status
+  192  git add --a
+  193  git commit -m "commit:m2"
+  194  git status
+  195  git add --a
+  196  git commit -m "commit:m3"
+  197  git log --oneline
+  198  git remote
+  199  git remote add origin
+  200  git remote add origin https://github.com/adhiman09012002/wednesday.git
+  201  git remote
+  202  git remote rename origin mygiturl
+  203  git remote
+  204  git remote remove mygiturl
+  205  git remote
+  206  git remote add origin https://github.com/adhiman09012002/wednesday.git
+  207  git remote -v
+  208  git push origin master
+  209  git status
+  210  git add about.txt
+  211  clear
+  212  5F61RN MINGW64 ~/Desktop/git 20.04.22 (master)
+  213  $ git remote -v
+  214  origin  https://github.com/adhiman09012002/wednesday.git (fetch)
+  215  origin  https://github.com/adhiman09012002/wednesday.git (push)
+  216  HP@DESKTOP-J5F61RN MINGW64 ~/Desktop/git 20.04.22 (master)
+  217  $ git push origin master
+  218  git init
+  219  git clone https://github.com/deep1789/group2SCM.git
+  220  git push -u origin2 master
+  221  git push
+  222  git push -u activity4 
+  223  git push
+  224  git remote
+  225  git push -u origin master
+  226  git push -u origin master
+  227  git push
+  228  git push -u origin master
+  229  git remote
+  230  git push -u origin master
+  231  git push -u 109
+  232  git add -a
+  233  git add ajay109.txt
+  234  git status
+  235  git add ajay109.txt.txt
+  236  git push
+  237  git push -u ajay109.txt
+  238  git push -u ajay109.txt.txt
+  239  git push -u origin master
+  240  git log --oneline
+  241  git status
+  242  git log
+  243  git init
+  244  git init
+  245  clear
+  246  git config --global user.name
+  247  git config --global user.email
+  248  git add --a
+  249  git commit -m "Commit Message"
+  250  git status
+  251  git commit -m "C0mmit Message"
+  252  clear
+  253  git init
+  254  clear
+  255  git add
+  256  clear
+  257  git commit -m "Commit Message"
+  258  git status
+  259  git push origin master
+  260  git push --all
+  261  git push gh repo clone adhiman09012002/prince-dhiman
+  262  git pull gh repo clone adhiman09012002/prince-dhiman
+  263  git branch
+  264  git merge master
+  265  git log
+  266  git remote add origin https://github.com/adhiman09012002/prince-dhiman.git
+  267  git pullhttps://github.com/adhiman09012002/prince-dhiman.git
+  268  git remote
+  269  git remote add origin https://github.com/adhiman09012002/prince-dhiman.git
+  270  git remote
+  271  git push origin toolup
+  272  clear
+  273  git branch dhiman
+  274  git checkout dhiman
+  275  mkdir sas
+  276  touch jxkjbaxs
+  277  touch
+  278  touch hh
+  279  git add --a
+  280  git  commit -m"commit mesage"
+  281  git push origin dhiman
+  282  git log
+  283  git remote add origin https://github.com/adhiman09012002/project-task2.git
+  284  git remote
+  285  git add -A
+  286  git commit -m "changes have been made on Feature-1 branch"
+  287  git commit -m "changes have been made om Master-1 branch"
+  288  git log
+  289  git remote add origin https://github.com/adhiman09012002/project-task2.git
+  290  git init
+  291  git remote -V
+  292  clear
+  293  git log
+  294  git remote add origin https://github.com/adhiman09012002/project-task2.git
+  295  git remote
+  296  git init
+  297  git remote -v
+  298  git pull gh repo clone adhiman09012002/project-task2
+  299  git branch feature1
+  300  git checout feature1
+  301  git checkout feature1
+  302  git status
+  303  git checkout feature1
+  304  mkdir scmproj
+  305  touch file4.txt
+  306  touch scm.html
+  307  touch ajaydhiman.js
+  308  git add --a
+  309  git checkout feature1
+  310  clear
+  311  git checkout feature1
+  312  git checkout master
+  313  clear
+  314  fit checkout feature1
+  315  git commit -m "changes made in feature1"
+  316  clear
+  317  git checkout feature1
+  318  git commit -m "changes made in feature1"
+  319  touch wlcm3.txt
+  320  notepad wlcm3.txt
+  321  git add -A
+  322  git checkout master
+  323  git merge feature1
+  324  git mergetool
+  325  clear
+  326  touch demo2
+  327  notepad demo2
+  328  git status
+  329  git add --a
+  330  git status
+  331  git log --online
+  332  git log --oneline
+  333  git reset 7802963 --hard
+  334  git reset f7345dc --hard
+  335  git log --oneline
+  336  clear
+  337  git init
+  338  clear
+  339  git init
+  340  git pull https://github.com/deep1789/gitsecond.git
+  341  git branch
+  342  git push gh repo clone deep1789/gitsecond
+  343  git push https://github.com/deep1789/gitsecond.git
+  344  git remote
+  345  git push https://github.com/adhiman09012002/gitsecond.git
+  346  git push gh repo clone adhiman09012002/gitsecond
+  347  git remote 
+  348  git act1
+  349  touch about.txt
+  350  git status
+  351  touch welcome.txt
+  352  touch contact.txt
+  353  git status
+  354  git merge conflict
+  355  git merge
+  356  git merge feacture1
+  357  git checkout feacture1
+  358  touch ajay0109.txt
+  359  git status
+  360  mkdir act1
+  361  git branch
+  362  git checkout
+  363  git status
+  364  touch welcome.txt
+  365  git status
+  366  clear
+  367  git merge comflict
+  368  git init
+  369  java -Xbootclasspath/p:ESEdition.jar -jar burpsuite_pro_v1.7.34.jar
+  370  git add .
+  371  git commit -m "ajay dhiman"
+  372  git push
+  373  git push
+  374  git init
+  375  git add .
+  376  cd desktop/AI-Image
+  377  git status
+  378  git add .
+  379  git commit -m "dsjhdsf"
+  380  git push
+  381  git push --set-upstream origin maoin
+  382  git push --set-upstream origin main
+  383  git push origin main
+  384  git checkout master
+  385  git checkout master
+  386  git push origin master
+  387  git push origin main
+  388  git https://github.com/adhiman09012002/Bonik-website.git
+  389  git clone https://github.com/adhiman09012002/Bonik-website.git
+  390  git inii
+  391  git add .
+  392  git status
+  393  git init
+  394  git status
+  395  git init
+  396  git status
+  397  cd ..
+  398  pwd
+  399  ls
+  400  ls -l
+  401  ls -a
+  402  cd downloads
+  403  cd Calculator1
+  404  cd..
+  405  cd ..
+  406  cd Calculator1
+  407  cd /
+  408  cd Calculator1
+  409  cd Desktop
+  410  cd ..
+  411  git status
+  412  cd Desktop
+  413  cd Desktop
+  414  cd clswrk
+  415  cd Main.java
+  416  git commit 
+  417  git commit Main.java
+  418  git push
+  419  git status
+  420  pwd
+  421  ls
+  422  cd ..
+  423  ls
+  424  ls -l
+  425  ls -a
+  426  touch Helloworld
+  427  ls -a
+  428  touch Helloworld.txt
+  429  ls -a
+  430  remdir Helloworld.txt
+  431  rmdir Helloworld.txt
+  432  rmdir Helloworld.txt
+  433  mkdir ajay
+  434  mkdir ajays
+  435  mkdir Ajays Dhimans
+  436  mkdir Ajayds Dhimans
+  437  mkdir Ajayds Dhimands
+  438  mkdir Ajaydss Dhimands
+  439  mkdir Dhimans
+  440  mkdir Dhimandds
+  441  cd Ajays
+  442  cd Dhimandds
+  443  cd ..
+  444  mkdir Dhimandds asdfg
+  445  mkdir Dhimanffdds asdfg
+  446  mkdir Dhimanffddsee asdfghh
+  447  nano Helloworld.java
+  448  ls
+  449  javac
+  450  javac Helloworld.java
+  451  java Helloworld.java
+  452  ls
+  453  java Helloworld
+  454  ls
+  455  nano Sum.java
+  456  javac Sum.java
+  457  nano Sum.java
+  458  javac Sum.java
+  459  java Sum.java
+  460  ls
+  461  git init
+  462  ls
+  463  git remote add origin https://github.com/adhiman09012002/Class-Work.git
+  464  git checkout -M main
+  465  git checkout -m main
+  466  git checkout -m Main
+  467  git checkout -b main
+  468  git status
+  469  cd Ajayss
+  470  git status
+  471  cd .. 
+  472  git status
+  473  git add Ajayss
+  474  git add Ajayss/.
+  475  git status
+  476  cd ..
+  477  ls
+  478  cd Ajayss
+  479  cd Desktop
+  480  cd Ajayss
+  481  ls
+  482  git status
+  483  git commit -m "[Ajay first commit]"
+  484  git status
+  485  git push 
+  486  git push -u origin main
+  487  pwd
+  488  ls
+  489  ls -a 
+  490  ls -l
+  491  cd Downlads
+  492  cd Desktop
+  493  cd Downlads
+  494  cd ..
+  495  cd Documents
+  496  mkdir Sai
+  497  cd ..
+  498  cd ~
+  499  cd Documents
+  500  mkdir myWorkspace
+  501  cd myWorkspace
+  502  mkdir abc def
+  503  ls
+  504  tauch sample1.txt
+  505  touch sample1.txt
+  506  cat sample1.txt
+  507  nano sample1.txt
+  508  cat sample1.txt
+  509  ls 
+  510  nv sample1.txt abc/
+  511  mv sample1.txt abc/
+  512  cd abc
+  513  ls
+  514  cd ..
+  515  cd def
+  516  cd ..
+  517  cd abc
+  518  cd ..
+  519  ls
+  520  cp abc def
+  521  cp -r abc def
+  522  cd def 
+  523  ls
+  524  rmdir abc
+  525  rm -r abc
+  526  cd abc
+  527  cd ..
+  528  cd abc
+  529  ls
+  530  cd ..
+  531  mv -r abc def
+  532  mv abc def
+  533  ls
+  534  cd def
+  535  ls
+  536  cd abc
+  537  rm sample1.txt
+  538  ls
+  539  cd ..
+  540  ls
+  541  rmdir abc/
+  542  ls
+  543  history
+  544  history > linux-cheet-sheet.txt
